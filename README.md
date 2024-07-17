@@ -283,7 +283,7 @@ The code uses Alice to set the key parameters such as the key size(Set:2048). Bo
 
 The output the code produces is as follows:
 
-![Screenshot 2023-03-31 at 11.44.07.png](Message%20Authentication%20&%20Key%20Exchange%20f30ef006a0704fdd95419b2b74ffd7e7/Screenshot_2023-03-31_at_11.44.07.png)
+![Screenshot 2023-03-31 at 11.44.07.png](Screenshot_2023-03-31_at_11.44.07.png)
 
 There is assurance that the private key is correct as the last lines of output tell the user whether the keys are the same or whether they are different.
 
